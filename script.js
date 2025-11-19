@@ -1,6 +1,6 @@
 // script.js
 // Configuration
-const ETHERSCAN_API_KEY = 'YOUR_ETHERSCAN_KEY'; // Replace with your free Etherscan API key
+const C3MWN5VX314YSB2JUSNQSX9CBNG1MJ1BP6 = 'YOUR_ETHERSCAN_KEY'; // Replace with your free Etherscan API key
 const ASSETS = [
     { name: 'ETH', id: 'ethereum', contract: '', decimals: 18 }, // Native ETH
     { name: 'USDC', id: 'usd-coin', contract: '0x1c7D4B196Cb0C7B01d743Fbc6116a902379C7238', decimals: 6 } // Sepolia USDC contract
